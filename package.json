@@ -1,0 +1,33 @@
+{
+  "name": "string-array-obj-ops",
+  "version": "1.3.1",
+  "description": "string-array-obj-ops is a comprehensive JavaScript library providing a wide range of essential string and array operations. It offers efficient functions for handling strings, including converting them to uppercase or lowercase, removing numbers and special characters, and more. For arrays, it provides operations such as finding unique values, sorting numbers and strings, calculating the sum, handling arrays of objects, merging with unique values, flattening, and managing values. This package is designed to streamline your development process by offering a collection of powerful tools for common JavaScript tasks, ensuring code efficiency and maintainability.",
+  "keywords": [
+    "javascript",
+    "Uppercase",
+    "Lowercase",
+    "Remove numbers",
+    "Remove special characters",
+    "Array operations",
+    "Unique array",
+    "Sorted number array",
+    "Sorted string array",
+    "Sum of array",
+    "Unique array of objects (by ID)",
+    "Merge array with unique values",
+    "Flatten array",
+    "Array includes",
+    "Array remove values",
+    "string operations",
+    "array operations",
+    "object operations",
+    "utility",
+    "library"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishal bhagat",
+  "license": "ISC"
+}
